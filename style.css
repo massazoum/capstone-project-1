@@ -618,19 +618,6 @@ body {
     margin-right: 15%;
   }
 
-  /* .mobileNone {
-    display: grid;
-    grid-template-columns: 8fr 1fr;
-    gap: 10px;
-  }
-
-  .imgP1 {
-    width: 100px;
-    height: 100px;
-    padding-top: 45px;
-    padding-right: 5px;
-
-  } */
   .bntsumitJoin {
     display: none;
   }

@@ -181,6 +181,7 @@ body {
     font-family: 'lato', sans-serif;
     font-size: 24px;
     font-weight: 200;
+    font-weight: bolder;
   }
 
   .welcom12 {
@@ -237,6 +238,7 @@ body {
     font-family: 'lato', sans-serif;
     font-size: 24px;
     font-weight: 200;
+    font-weight: bolder;
   }
 
   .welcom22 {
@@ -469,6 +471,7 @@ body {
     font-family: 'lato', sans-serif;
     font-size: 24px;
     font-weight: 200;
+    font-weight: bolder;
   }
 
   .welcom12 {
@@ -507,7 +510,6 @@ body {
   }
 
   .dashlong {
-    margin-top: -80px;
     height: 5px;
   }
 
@@ -524,6 +526,7 @@ body {
     font-family: 'lato', sans-serif;
     font-size: 24px;
     font-weight: 200;
+    font-weight: bolder;
   }
 
   .welcom22 {

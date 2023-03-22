@@ -1,10 +1,10 @@
-const speakerperson1 =document.querySelector('.speaker-person1')
-const speakerperson2 =document.querySelector('.speaker-person2')
+const speakerperson1 =document.querySelector('.speaker-person1');
+const speakerperson2 =document.querySelector('.speaker-person2');
 
-const speakerperson3 =document.querySelector('.speaker-person3')
-const speakerperson4 =document.querySelector('.speaker-person4')
-const speakerperson5 =document.querySelector('.speaker-person5')
-const speakerperson6 =document.querySelector('.speaker-person6')
+const speakerperson3 =document.querySelector('.speaker-person3');
+const speakerperson4 =document.querySelector('.speaker-person4');
+const speakerperson5 =document.querySelector('.speaker-person5');
+const speakerperson6 =document.querySelector('.speaker-person6');
 
 const imgP1 =document.querySelector('.imgP1');
 const imgP2 =document.querySelector('.imgP2');
