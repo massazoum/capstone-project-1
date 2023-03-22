@@ -329,6 +329,32 @@ body {
     margin-left: 9%;
   }
 
+  .header-first li {
+    list-style: none;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .header-first .fa-twitter {
+    color: #d3d3d3;
+  }
+
+  .header-first .fa-facebook {
+    color: #d3d3d3;
+  }
+
+  .nav-headerfirst {
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .nav-headerfirst li {
+    list-style: none;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
   .header-second ul {
     display: flex;
   }
