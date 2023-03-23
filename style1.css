@@ -864,6 +864,7 @@ body {
     background-color: #272a31;
     color: #d3d3d3;
     padding-bottom: 10px;
+    justify-content: center;
   }
 
   .footer21 {
