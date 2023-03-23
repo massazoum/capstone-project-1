@@ -99,7 +99,7 @@ This website has been completed and deployed
 ### Deployment
 
   The changes will be deployed to the website through our standard deployment process.
-- [PortFolio]( https://massazoum.github.io/capstone-project-1/)
+- [ Artificial Intelligence ]( https://massazoum.github.io/capstone-project-1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
