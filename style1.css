@@ -631,7 +631,7 @@ body {
   .header-second ul li a {
     text-decoration: none;
     color: #080000;
-    padding-right: 20px;
+    padding-right: 17px;
   }
 
   .nav-headerfirst li a:hover {
@@ -658,7 +658,6 @@ body {
 
   .header-second ul li {
     list-style: none;
-    font-size: 17px;
     font-weight: bold;
   }
 
