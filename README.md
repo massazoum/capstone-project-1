@@ -120,6 +120,8 @@ This website has been completed and deployed
 - [ ] **include Javascript**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🙏 Acknowledgements   <a name="acknowledgements"></a>  
+ 
 
 ## 🤝 Contributing <a name="contributing"></a>
 

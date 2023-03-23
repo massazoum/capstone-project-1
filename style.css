@@ -38,9 +38,6 @@ body {
     opacity: 0.1;
   }
 
-  /* ((((((((((((((((((((((((((((((((((((((((((((((((((((( Menu
-   */
-
   .toggle {
     position: fixed;
     display: block;
@@ -50,11 +47,6 @@ body {
     padding-bottom: 50px;
   }
 
-  /* .menu-mobile {
-    color: hsl(222, 11%, 17%);
-    margin-top: 10px;
-    margin-left: 30px;
-  } */
   .fermer {
     display: none;
   }
@@ -117,7 +109,6 @@ body {
     z-index: 99;
   }
 
-  /* èèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèè */
   header {
     display: flex;
   }
@@ -151,7 +142,6 @@ body {
 
   .welcom-p2 {
     margin-top: 30px;
-    margin-left: 20px;
     padding: 10px;
     margin-bottom: 50px;
     color: hsl(222, 11%, 17%);
@@ -246,7 +236,6 @@ body {
     margin-bottom: 10vh;
   }
 
-  /* ----------------------global section of speakers----------------------- */
   .speakers {
     display: grid;
     flex-direction: column;
@@ -254,8 +243,6 @@ body {
     height: auto;
     row-gap: 10px;
   }
-
-  /* ---------------------------------------- */
 
   .title-Main2 {
     display: flex;
@@ -279,7 +266,6 @@ body {
     background-color: hsl(6, 82%, 59%);
   }
 
-  /* ################################------start---block speaker person----------------##################################################### */
   .speaker-person1 {
     display: flex;
     height: 30vh;
@@ -322,7 +308,6 @@ body {
     margin-left: 20px;
   }
 
-  /* ################################------end---block speaker person----------------##################################################### */
   .mobileNone {
     display: none;
   }
@@ -499,7 +484,7 @@ body {
   }
 
   .logo {
-    margin-left: 10%;
+    margin-left: 15%;
   }
 
   .header-second ul {
@@ -508,6 +493,8 @@ body {
 
   .header-second ul li {
     list-style: none;
+    font-size: 17px;
+    font-weight: bold;
   }
 
   .header-second ul li a {
@@ -523,13 +510,25 @@ body {
     justify-self: center;
   }
 
+  .title-detail {
+    position: absolute;
+    top: 80px;
+    left: 42%;
+    display: flex;
+    justify-content: center;
+    color: hsl(6, 82%, 59%);
+    font-weight: bold;
+    font-size: 12px;
+    margin-top: 10px;
+  }
+
   .welcom {
     color: #272a31;
     position: relative;
     width: 80%;
     height: 100vh;
     margin-top: 30px;
-    margin-left: 20%;
+    margin-left: 15%;
     z-index: 999;
     margin-bottom: 0;
   }
@@ -554,8 +553,7 @@ body {
   .welcom-p2 {
     max-width: 400px;
     margin-top: 30px;
-    margin-left: 20px;
-    padding: 10px;
+    padding: 15px;
     margin-bottom: 50px;
     color: hsl(222, 11%, 17%);
     font-family: 'Lato', sans-serif;
@@ -597,13 +595,27 @@ body {
     background-color: rgb(53, 55, 62);
     color: #d3d3d3;
     width: 20%;
-    height: 22vh;
-    padding-top: 2.5vh;
-    padding-bottom: 2.5vh;
-    padding-left: 30px;
+    height: 60%;
+    padding-top: 3vh;
+    padding-bottom: 2vh;
     font-family: 'Lato', sans-serif;
     line-height: 1.5;
     font-size: 10px;
+  }
+
+  .icon-detail {
+    display: flex;
+    justify-content: center;
+  }
+
+  .descrip {
+    position: absolute;
+    display: flex;
+    text-align: center;
+    width: 90%;
+    left: 5%;
+    right: 5%;
+    top: 120px;
   }
 
   .nonebnt {
@@ -684,7 +696,6 @@ body {
     font-size: large;
   }
 
-  /* ################################------start---block speaker person----------------##################################################### */
   .speaker-person1 {
     display: flex;
     line-height: 1.5;
@@ -721,11 +732,9 @@ body {
     font-size: 14px;
   }
 
-  /* ################################------end---block speaker person----------------##################################################### */
-
   .imgP1 {
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     padding-right: 10px;
   }
 
@@ -810,24 +819,35 @@ body {
     margin-top: 50px;
   }
 
+  .logofooter {
+    padding-top: 5vh;
+    margin-left: 10%;
+    width: 150px;
+    height: 150px;
+    margin-top: -15%;
+  }
+
   .footer2 {
     display: grid;
-    grid-template-columns: 300px 600px;
-    column-gap: 50px;
+    grid-template-columns: 400px 500px;
+    column-gap: 40px;
     height: 25vh;
     width: 100%;
     padding-top: 10vh;
+    justify-content: center;
   }
 
   .footer21 {
+    display: flex;
     font-size: 15px;
     font-weight: bolder;
-    margin-left: 10%;
+    margin-left: 0;
   }
 
   .footer22 {
-    font-size: small;
-    width: 600px;
+    font-size: large;
+    color: hsl(222, 11%, 17%);
+    width: 500px;
   }
 
   .dashProjectMain {
