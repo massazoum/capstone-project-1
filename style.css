@@ -820,21 +820,16 @@ body {
   }
 
   .logofooter {
-    padding-top: 5vh;
-    margin-left: 10%;
+    position: absolute;
+    left: 10px;
     width: 150px;
     height: 150px;
-    margin-top: -15%;
   }
 
   .footer2 {
-    display: grid;
-    grid-template-columns: 400px 500px;
-    column-gap: 40px;
     height: 25vh;
     width: 100%;
     padding-top: 10vh;
-    justify-content: center;
   }
 
   .footer21 {
@@ -845,9 +840,12 @@ body {
   }
 
   .footer22 {
+    position: absolute;
     font-size: large;
     color: hsl(222, 11%, 17%);
     width: 500px;
+    left: 200px;
+    top: 250px;
   }
 
   .dashProjectMain {

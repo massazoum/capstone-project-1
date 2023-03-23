@@ -24,7 +24,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    height: 110vh;
+    height: 115vh;
     background-image: url(images/backdesk.jfif);
     background-repeat: space;
     background-size: cover;
@@ -212,13 +212,14 @@ body {
   }
 
   .welcom-h1 {
-    max-width: 400px;
+    width: 80%;
     color: hsl(6, 82%, 59%);
     font-family: 'Lato', sans-serif;
     line-height: 1.5;
     font-size: 20px;
     z-index: 99;
-    margin-left: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-top: 10vh;
   }
 
@@ -271,7 +272,7 @@ body {
     flex-direction: column;
     width: 100%;
     height: 90vh;
-    margin-top: 20vh;
+    margin-top: 0;
   }
 
   .welcom11 {
@@ -439,7 +440,6 @@ body {
     margin-left: 10%;
     width: 150px;
     height: 120px;
-    margin-top: -15%;
   }
 }
 
@@ -863,6 +863,7 @@ body {
     padding-top: 5vh;
     background-color: #272a31;
     color: #d3d3d3;
+    padding-bottom: 10px;
   }
 
   .footer21 {
