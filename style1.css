@@ -332,7 +332,9 @@ body {
     display: flex;
     height: auto;
     width: 100%;
-    background-color: #272a31;
+    background-image: url(images/font-partner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     color: #d3d3d3;
     padding-top: 5vh;
     padding-bottom: 10px;
@@ -386,7 +388,9 @@ body {
     position: relative;
     width: 100%;
     height: 5vh;
-    background-color: #272a31;
+    background-image: url(images/font-partner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     padding-top: 10px;
   }
 
@@ -417,13 +421,13 @@ body {
   }
 
   .LinksumitJoin a {
-    color: white;
+    color: #d3d3d3;
     font-family: 'lato', sans-serif;
   }
 
   .nav-headerfirst li a {
     text-decoration: none;
-    color: white;
+    color: #d3d3d3;
     transition: 1s;
   }
 
@@ -662,7 +666,9 @@ body {
     column-gap: 20px;
     height: 25vh;
     width: 100%;
-    background-color: #272a31;
+    background-image: url(images/font-partner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     color: #d3d3d3;
     padding-top: 7vh;
     padding-bottom: 3vh;

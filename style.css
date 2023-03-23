@@ -207,7 +207,7 @@ body {
 
   .dashProjectMain {
     position: relative;
-    margin-top: -35px;
+    margin-top: -30px;
     width: 60px;
     height: 2px;
     left: calc(50% - 80px / 2 - 0.5px);
@@ -444,7 +444,9 @@ body {
     position: relative;
     width: 100%;
     height: 5vh;
-    background-color: #272a31;
+    background-image: url(images/font-partner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     padding-top: 10px;
   }
 
@@ -475,13 +477,13 @@ body {
   }
 
   .LinksumitJoin a {
-    color: white;
+    color: #d3d3d3;
     font-family: 'lato', sans-serif;
   }
 
   .nav-headerfirst li a {
     text-decoration: none;
-    color: white;
+    color: #d3d3d3;
     transition: 1s;
   }
 
@@ -796,7 +798,9 @@ body {
     flex-direction: column;
     height: 22vh;
     width: 100%;
-    background-color: #272a31;
+    background-image: url(images/font-partner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 
   .footer1 .footer11 {
@@ -810,12 +814,13 @@ body {
 
   .footer12 {
     position: relative;
-    width: 60px;
+    width: 30px;
     height: 1px;
-    left: calc(50% - 60px / 2 - 0.5px);
+    left: calc(50% - 30px / 2 - 0.5px);
     border-radius: 10px;
     background-color: hsl(6, 82%, 59%);
-    margin-bottom: 35px;
+    margin-bottom: 30px;
+    margin-top: 15px;
   }
 
   .footer13 {
@@ -833,7 +838,8 @@ body {
     font-weight: bold;
     list-style: none;
     color: #d3d3d3;
-    padding: 10px;
+    padding: 5px;
+    padding-bottom: 50px;
   }
 
   .logofooter {
