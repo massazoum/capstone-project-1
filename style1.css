@@ -82,11 +82,20 @@ body {
   }
 
   .menu li a {
-    font-size: x-large;
+    font-size: large;
     text-decoration: none;
     color: orangered;
     font-style: normal;
     font-weight: bolder;
+    transition: 1s;
+    border-radius: 5px;
+    background-color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  .menu li a:hover {
+    font-size: x-large;
   }
 
   .open .firstFace {
@@ -616,6 +625,17 @@ body {
   .nav-headerfirst li a {
     text-decoration: none;
     color: white;
+    transition: 1s;
+  }
+
+  .header-second ul li a {
+    text-decoration: none;
+    color: #080000;
+    padding-right: 20px;
+  }
+
+  .nav-headerfirst li a:hover {
+    font-size: x-large;
   }
 
   .header-second {
@@ -640,12 +660,6 @@ body {
     list-style: none;
     font-size: 17px;
     font-weight: bold;
-  }
-
-  .header-second ul li a {
-    text-decoration: none;
-    color: #080000;
-    padding-right: 20px;
   }
 
   .content-liCc {
