@@ -662,11 +662,12 @@ body {
     column-gap: 20px;
     height: 25vh;
     width: 100%;
-    padding-top: 5vh;
     background-color: #272a31;
     color: #d3d3d3;
-    padding-bottom: 10px;
-    justify-content: center;
+    padding-top: 7vh;
+    padding-bottom: 3vh;
+    justify-content: space-around;
+    align-items: center;
   }
 
   .footer21 {
@@ -682,10 +683,7 @@ body {
   }
 
   .logofooter {
-    padding-top: 5vh;
-    margin-left: 10%;
-    width: 150px;
-    height: 150px;
-    margin-top: -15%;
+    width: 120px;
+    height: 120px;
   }
 }

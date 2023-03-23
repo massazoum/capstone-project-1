@@ -262,6 +262,7 @@ body {
     font-family: 'Lato', sans-serif;
     line-height: 1.5;
     font-size: large;
+    font-weight: bold;
   }
 
   .dashProjectMain2 {
@@ -597,7 +598,7 @@ body {
     background-color: hsl(222, 11%, 17%);
     width: 100%;
     padding-top: 20vh;
-    height: 50vh;
+    height: 45vh;
     gap: 5px;
   }
 
@@ -708,6 +709,7 @@ body {
     font-family: 'Lato', sans-serif;
     line-height: 1.5;
     font-size: large;
+    font-weight: bold;
   }
 
   .speaker-person1 {
@@ -792,7 +794,7 @@ body {
     position: relative;
     display: flex;
     flex-direction: column;
-    height: 30vh;
+    height: 22vh;
     width: 100%;
     background-color: #272a31;
   }
@@ -803,6 +805,7 @@ body {
     justify-content: center;
     color: #d3d3d3;
     width: 100%;
+    font-weight: bold;
   }
 
   .footer12 {
@@ -812,12 +815,12 @@ body {
     left: calc(50% - 60px / 2 - 0.5px);
     border-radius: 10px;
     background-color: hsl(6, 82%, 59%);
-    margin-bottom: 20px;
+    margin-bottom: 35px;
   }
 
   .footer13 {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     margin-bottom: -45px;
   }
 
@@ -826,24 +829,27 @@ body {
   }
 
   .footer1 .footer13 li {
-    font-size: larger;
+    font-size: x-large;
     font-weight: bold;
     list-style: none;
-    color: white;
-    margin-top: 50px;
+    color: #d3d3d3;
+    padding: 10px;
   }
 
   .logofooter {
-    width: 150px;
-    height: 150px;
+    width: 120px;
+    height: 120px;
   }
 
   .footer2 {
     display: flex;
     height: 25vh;
     width: 100%;
-    padding-top: 10vh;
+    padding-top: 7vh;
+    padding-bottom: 3vh;
     justify-content: center;
+    justify-content: space-around;
+    align-items: center;
   }
 
   .footer21 {
