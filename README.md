@@ -4,7 +4,7 @@
    
   <br/>
 
-  <h3><b>My portfolio</b></h3>
+  <h3><b>Capstone Project 1</b></h3>
 
 </div>
 
@@ -31,7 +31,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 portfolio <a name="about-project"></a>
+# 📖 Capstone Project 1<a name="about-project"></a>
 This pull is created to add javascript to my first capstone project and make interaction on my menu bars and times 
 This PR updates the responsive desktop design for our website to improve its usability on larger screens. The goal of this update is to provide a better user experience for desktop users and ensure that our website looks great on all devices
 
@@ -99,7 +99,7 @@ This website has been completed and deployed
 ### Deployment
 
   The changes will be deployed to the website through our standard deployment process.
-- [PortFolio](https://massazoum.github.io/Portfolio-setup-and-mobile-first/)
+- [PortFolio]( https://massazoum.github.io/capstone-project-1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,8 +120,10 @@ This website has been completed and deployed
 - [ ] **include Javascript**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-## 🙏 Acknowledgements   <a name="acknowledgements"></a>  
- 
+
+## 🙏 Acknowledgements <a name="acknowledgements"></a>  
+
+Thanks to CindyShin , I have followed this content:Behance 
 
 ## 🤝 Contributing <a name="contributing"></a>
 
