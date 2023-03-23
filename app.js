@@ -62,7 +62,7 @@ const ArraySpeakers = [
   {
     imagespeaker: 'images/speaker3img.png',
     Text1: 'Massa',
-    Text2: ' Phycienand web developer  ',
+    Text2: ' Phycien and web developer  ',
     Text3: 'from the university in physical science and developer wed',
 
   },
