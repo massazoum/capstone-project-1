@@ -39,7 +39,7 @@ This PR updates the responsive desktop design for our website to improve its usa
 <ul>
   <li>HTML5</li> 
   <li>CSS3</li>
-  <li>jJavaScript</li>
+  <li>JavaScript</li>
   <li>flexbox</li>
   <li>CSS Grid</li>
 </ul>
