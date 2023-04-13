@@ -221,7 +221,7 @@ body {
     display: flex;
     background-color: rgb(53, 55, 62);
     width: 85%;
-    height: 12vh;
+    height: auto;
     padding-top: 3.5vh;
     padding-bottom: 2.5vh;
     margin-left: 30px;
@@ -687,8 +687,7 @@ body {
     grid-template-rows: repeat(3, 120px);
     row-gap: 0;
     column-gap: 150px;
-    margin-left: 20%;
-    justify-content: left;
+    justify-content: center;
     margin-top: 0;
     width: 100%;
   }
